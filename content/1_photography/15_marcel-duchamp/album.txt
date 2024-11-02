@@ -1,0 +1,33 @@
+Title: Marcel Duchamp
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: A Guest + A Host = A Ghost
+
+----
+
+Curator: 
+
+----
+
+Date: 23 March, 2024
+
+----
+
+Text: [{"content":{"text":""},"id":"58b65923-d3be-481d-80c9-3870779ef5bd","isHidden":false,"type":"text"}]
+
+----
+
+Tags: CACHE, A Guest + A Host = A Ghost, Marcel Duchamp
+
+----
+
+Uuid: glEB7bP8hX2oZL6j

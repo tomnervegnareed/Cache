@@ -1,0 +1,37 @@
+.note {
+  max-width: 100vw;
+  margin: 0;
+}
+
+.note-footer {
+  padding: 1rem;
+}
+
+
+.note-date {
+  position:relative;
+  z-index: 2000; /* Ensures the menu stays on top of other elements */
+  bottom: 4vh; /* Distance from the top */
+  right: 10vw; /* Distance from the right */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;
+
+  color: var(--color-text-black);
+}
+.note-tags {
+  display: flex;
+  margin-bottom: 1.5rem;
+}
+.note-tags li {
+  margin-right: .5rem;
+}
+.note-tags a {
+  padding: .5rem 1rem;
+  display: block;
+  background: var(--color-black);
+}
+.note-tags a:hover {
+  background: var(--color-white);
+  color: var(--color-white);
+}

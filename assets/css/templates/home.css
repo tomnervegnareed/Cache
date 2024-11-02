@@ -1,0 +1,53 @@
+
+.carousel-wrapper {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  white-space: nowrap; /* Prevent wrapping of images */
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+
+.carousel-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex: 0 0 auto; /* Ensure images don't shrink and remain in a row */
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: space-around; /* Evenly spaces images across the width */
+  gap: 50px;
+}
+
+.carousel-container img {
+  position: absolute;
+  height: 100%; /* Image height fits the screen height */
+  max-width: none; /* No restriction on width */
+  mix-blend-mode: multiply;
+  transition: transform 0.2s ease;
+  opacity: 1;
+}
+
+.carousel-container img:last-child {
+  margin-right: 0; /* Remove margin for the last image */
+}
+
+.carousel-container a .image-title {
+  position: absolute;
+  top: 50%; /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  opacity: 0; /* Hidden by default */
+  transition: opacity 0.3s ease; /* Smooth transition */
+  pointer-events: none; /* So the text doesn't interfere with clicking */
+}
+
+.carousel-container a:hover .image-title {
+  opacity: 1; /* Reveal on hover */
+}

@@ -1,0 +1,33 @@
+Title: Three houses of the 1990s
+
+----
+
+Cover: - file://uuylPxWZl8MyybAG
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Peter Brew, Sean Godsell and Michael Markham
+
+----
+
+Curator: Curated by Gina Levenspiel
+
+----
+
+Date: 5 October, 2024
+
+----
+
+Text: [{"content":{"text":""},"id":"a5aa468c-a027-40ad-83b2-295039aa545b","isHidden":false,"type":"text"}]
+
+----
+
+Tags: Peter Brew, Sean Godsell, Michael Markham, CACHE, Three houses of the 1990s
+
+----
+
+Uuid: PjvoKxwSNH1m9vjC

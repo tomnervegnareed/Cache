@@ -1,0 +1,33 @@
+Title: Ocean
+
+----
+
+Cover: 
+
+----
+
+Headline: Oceans are quite nice
+
+----
+
+Subheadline: Blue with lots of fish
+
+----
+
+Curator: curated by Hayden Stuart
+
+----
+
+Date: 4 March, 2024
+
+----
+
+Text: <p>Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur.</p><p>Donec sed odio dui. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+----
+
+Tags: ocean, water, blue
+
+----
+
+Uuid: D4DuOwcJk0fL0twA

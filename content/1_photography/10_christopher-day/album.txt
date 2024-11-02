@@ -1,0 +1,33 @@
+Title: Christopher Day
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: New Works
+
+----
+
+Curator: 
+
+----
+
+Date: 11 May, 2024
+
+----
+
+Text: [{"content":{"text":""},"id":"58b65923-d3be-481d-80c9-3870779ef5bd","isHidden":false,"type":"text"}]
+
+----
+
+Tags: CACHE, Christopher Day, New Works, Orange, Photograph
+
+----
+
+Uuid: GkLBCNnLcfz1WFPX

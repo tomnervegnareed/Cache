@@ -1,0 +1,33 @@
+Title: Katherine Botten
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Western Medicine
+
+----
+
+Curator: 
+
+----
+
+Date: 16 March, 2024
+
+----
+
+Text: [{"content":{"text":""},"id":"58b65923-d3be-481d-80c9-3870779ef5bd","isHidden":false,"type":"text"}]
+
+----
+
+Tags: CACHE, Katherine Botten, Western Medicine
+
+----
+
+Uuid: 6PMILJP8NA3Ufxxs

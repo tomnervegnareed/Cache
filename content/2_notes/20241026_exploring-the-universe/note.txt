@@ -1,0 +1,29 @@
+Title: Exploring the universe
+
+----
+
+Text: [{"content":{"location":"kirby","image":["file://xkPVM7MdXoEn4do6"],"src":"","alt":"Staring at stars","caption":"","link":"","ratio":"","crop":"true"},"id":"_200yrtaus","isHidden":false,"type":"image"},{"content":{"images":["file://tWNX7ZrzJUvS9Vad","file://xkPVM7MdXoEn4do6","file://GRXKArnK2t8V1tV5","file://FFlOVmo6apYZ6uHz"],"caption":"","ratio":"","crop":"false"},"id":"d74595aa-7824-42f1-8d7f-8fce5170007b","isHidden":false,"type":"gallery"},{"content":{"text":"<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by <strong>their</strong> place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>"},"id":"_MtYF6qOmq","isHidden":false,"type":"text"},{"content":{"location":"web","url":"https://www.youtube.com/watch?v=mxOzgCojM6E","video":[],"poster":[],"caption":"","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"67d1e553-ce98-45b8-947e-01a7f0e8faf4","isHidden":false,"type":"video"}]
+
+----
+
+Cover: - file://tWNX7ZrzJUvS9Vad
+
+----
+
+Date: 2024-10-26
+
+----
+
+Author: 
+
+----
+
+Tags: universe, love, life, loose, fuck
+
+----
+
+Subheading: Our quest to the edge of nowhere
+
+----
+
+Uuid: emTUJl2Q8HlLuVNO
